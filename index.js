@@ -27,7 +27,7 @@ function appendKitten(name) {
 }
 
 function prependKitten(name) {
-  kittens =  kittens.slice(1)
+  kittens =  kittens.slice(0)
   return kittens
 }
 
