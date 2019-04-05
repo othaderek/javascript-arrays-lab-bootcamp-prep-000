@@ -22,4 +22,7 @@ function appendKitten(name) {
   
 }
 
-function 
+function prependKitten(name) {
+  
+}
+
